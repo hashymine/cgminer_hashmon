@@ -8,7 +8,6 @@ If you like it please support it with donating:
 BTC : 1FEsSfkAwRy6X6CN52R3Pf2NqKGKpypDCF
 ########################################################*/
 
-<?php
 include_once ('./functions.inc.php');
 ?>
 
