@@ -1,0 +1,150 @@
+body {background:white; color:black;}
+
+.error {color:white; background:red;}
+        
+.ok {color:green;}
+
+.plot {
+    margin-bottom: 0px;
+    margin-left: -34px;
+    margin-right: -34px;
+    margin-bottom: -30px;   
+    
+}
+
+#chart0 .jqplot-meterGauge-label {
+    font-size: 10pt;
+}
+
+#chart1 .jqplot-meterGauge-tick {
+    font-size: 6pt;
+}
+
+#chart2 .jqplot-meterGauge-tick {
+    font-size: 8pt;
+}
+
+#chart3 .jqplot-meterGauge-tick, #chart3 .jqplot-meterGauge-tic {
+    font-size: 10pt;
+    backgroundColor: "#333333";
+}
+
+#chart5 .jqplot-meterGauge-tick, #chart5 .jqplot-meterGauge-tic {
+    font-size: 7pt;
+}
+
+#chart6 .jqplot-meterGauge-tick, #chart6 .jqplot-meterGauge-tic {
+    font-size: 7pt;
+}
+
+#chart7 .jqplot-meterGauge-tick, #chart7 .jqplot-meterGauge-tic {
+    font-size: 8pt;
+}
+
+#chart8 .jqplot-meterGauge-tick, #chart8 .jqplot-meterGauge-tic {
+    font-size: 8pt;
+}
+
+#chart9 .jqplot-meterGauge-tick, #chart9 .jqplot-meterGauge-tic {
+    font-size: 10pt;
+}
+
+#chart4 .jqplot-meterGauge-tick, #chart4 .jqplot-meterGauge-label {
+    font-size: 12pt;
+}
+
+.CSSTableGenerator {
+	margin:0px;padding:0px;
+	width:100%;
+	box-shadow: 6px 6px 5px #888888;
+	border:1px solid #bbbdcf;
+	
+	-moz-border-radius-bottomleft:17px;
+	-webkit-border-bottom-left-radius:17px;
+	border-bottom-left-radius:17px;
+	
+	-moz-border-radius-bottomright:17px;
+	-webkit-border-bottom-right-radius:17px;
+	border-bottom-right-radius:17px;
+	
+	-moz-border-radius-topright:17px;
+	-webkit-border-top-right-radius:17px;
+	border-top-right-radius:17px;
+	
+	-moz-border-radius-topleft:17px;
+	-webkit-border-top-left-radius:17px;
+	border-top-left-radius:17px;
+}.CSSTableGenerator table{
+    border-collapse: collapse;
+        border-spacing: 1;
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}.CSSTableGenerator tr:last-child td:last-child {
+	-moz-border-radius-bottomright:17px;
+	-webkit-border-bottom-right-radius:17px;
+	border-bottom-right-radius:17px;
+}
+.CSSTableGenerator table tr:first-child td:first-child {
+	-moz-border-radius-topleft:17px;
+	-webkit-border-top-left-radius:17px;
+	border-top-left-radius:17px;
+}
+.CSSTableGenerator table tr:first-child td:last-child {
+	-moz-border-radius-topright:17px;
+	-webkit-border-top-right-radius:17px;
+	border-top-right-radius:17px;
+}.CSSTableGenerator tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:17px;
+	-webkit-border-bottom-left-radius:17px;
+	border-bottom-left-radius:17px;
+}.CSSTableGenerator tr:hover td{
+	
+}
+.CSSTableGenerator tr:nth-child(odd){ background-color:#e5e5e5; }
+.CSSTableGenerator tr:nth-child(even)    { background-color:#ffffff; }.CSSTableGenerator td{
+	vertical-align:middle;
+	
+	
+	border:0px solid #999999;
+	border-width:0px 1px 1px 0px;
+	text-align:center;
+	padding:4px;
+	font-size:12px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+}.CSSTableGenerator tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.CSSTableGenerator tr td:last-child{
+	border-width:0px 1px 1px 0px;
+}.CSSTableGenerator tr:last-child td:last-child{
+	border-width:0px 1px 0px 0px;
+}
+.CSSTableGenerator tr:first-child td{
+		background:-o-linear-gradient(bottom, #bbbdcf 5%, #cccccc 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #bbbdcf), color-stop(1, #cccccc) );
+	background:-moz-linear-gradient( center top, #bbbdcf 5%, #cccccc 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#bbbdcf", endColorstr="#cccccc");	background: -o-linear-gradient(top,#bbbdcf,cccccc);
+
+	background-color:#bbbdcf;
+	border:0px solid #999999;
+	text-align:center;
+	border-width:0px 1px 1px 1px;
+	font-size:16px;
+	font-family:Arial Black;
+	font-weight:bold;
+	color:#000000;
+}
+.CSSTableGenerator tr:first-child:hover td{
+	background:-o-linear-gradient(bottom, #cccccc 5%, #b2b2b2 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cccccc), color-stop(1, #b2b2b2) );
+	background:-moz-linear-gradient( center top, #cccccc 5%, #b2b2b2 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#cccccc", endColorstr="#b2b2b2");	background: -o-linear-gradient(top,#cccccc,b2b2b2);
+
+	background-color:#cccccc;
+}
+.CSSTableGenerator tr:first-child td:first-child{
+	border-width:0px 1px 1px 0px;
+}
+.CSSTableGenerator tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}
