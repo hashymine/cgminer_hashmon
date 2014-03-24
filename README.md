@@ -7,6 +7,8 @@ http://hashmon.hopto.org   or  http://hashmon.hopto.org/sha
  If you like it please support it with donating:
    BTC : 1FEsSfkAwRy6X6CN52R3Pf2NqKGKpypDCF
 
+Make SURE  to READ   includes/jquery.readme.txt   Or Meters  WON'T WORK!!! 
+
 forked from
 SIMPLE CGMINER REMOTE MONITORING SCRIPT WITH ALERTS
 ===================================================
