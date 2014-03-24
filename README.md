@@ -1,10 +1,12 @@
 Hashy's HashMon   
 ===============
+Some Jquery, Css, and Php.    View My Monitor In Action:
 
-View My Monitor In Action
+http://hashmon.hopto.org   or  http://hashmon.hopto.org/sha
 
-http://hashmon.hopto.org   or   http://hashmon.hopto.org/sha
- 
+ If you like it please support it with donating:
+   BTC : 1FEsSfkAwRy6X6CN52R3Pf2NqKGKpypDCF
+
 forked from
 SIMPLE CGMINER REMOTE MONITORING SCRIPT WITH ALERTS
 ===================================================
