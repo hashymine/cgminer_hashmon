@@ -1,4 +1,12 @@
 <?php
+/*########################################################
+HashMon CGMINER REMOTE MONITORING SCRIPT WITH ALERTS
+Hackedp By: hashymine
+Version: 2.420
+
+If you like it please support it with donating:
+BTC : 1FEsSfkAwRy6X6CN52R3Pf2NqKGKpypDCF
+########################################################*/
 
 include_once ('./functions.inc.php');
 
